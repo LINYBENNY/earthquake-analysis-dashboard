@@ -1,4 +1,4 @@
-# Earthquake Analysis Dashboard (1937-2014)
+# Earthquake Analysis Dashboard (1900-2014)
 
 ## Overview
 Comprehensive Tableau dashboard analyzing historical earthquake data from 1900-2014.
